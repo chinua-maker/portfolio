@@ -1,0 +1,107 @@
+{
+  "main": {
+    "name": "Miriam Nwabuaso",
+    "occupation": "ReactJS Developer",
+    "description": "Frontend React Developer by Day, Freelancer by Night. #Stunts Dev",
+    "image": "photgenic.jpg",
+    "bio": "My name is Miriam, I'm a Frontend ReactJS Developer. Currently I'm working as freelance and happy to resolve code issues ",
+    "contactmessage": "Get in touch with me to receive further details, questions related codes.",
+    "email": "mgemma424@gmail.com",
+    "phone": "+234 813 928 6029",
+    "address": {
+      "street": "14, Williams Gbagada",
+      "city": "Lagos",
+      "state": "Nigeria"
+    },
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/gem.miriam.3",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/miriam-nwabuaso-4b48aa7b/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/gemchinua/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/chinua-maker",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I design my work using figma, and build the app with recent industry technologies such React + Rdeux",
+    "education": [
+      {
+        "school": "Nnamdi Azikiwe University",
+        "degree": "Bachelor's in Engineering",
+        "graduated": "January 2016"
+      }
+    ],
+    "work": [
+      {
+        "company": "Skill up Africa",
+        "title": "Team Member",
+        "years": "April 2020 - November 2020",
+        "description": "Build Apps."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "50%"
+      },
+      {
+        "name": "Figma",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Gamer's Hub",
+        "category": "Gaming Hub (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "gaming-images.jpg",
+        "url": "https://gaminghub.netlify.app"
+      },
+      {
+        "title": "E-Shopping",
+        "category": "E-Shopping Site (PayPal, ReactJS, Google API)",
+        "image": "ecommerce-image.jpg",
+        "url": "https://e-product-site.netlify.app"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Miriam is a passionate developer and disposes an attitude to learn and growth simultaneously.",
+        "user": "Maureen Ajagba"
+      },
+      {
+        "text": "That Miriam Nwabuaso must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired her yet. You can hire her, she may be fresh into programming and have zero on the job experience but I am confident that she will be one of your best developers in no time!",
+        "user": "Nte Matthew"
+      }
+    ]
+  }
+}
